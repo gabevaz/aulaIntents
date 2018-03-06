@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intents</string>
+    <string name="opcional_1">Opcional 1</string>
+    <string name="opcional_2">Opcional 2</string>
+    <string name="esta_a_tela_1">Esta é a tela 1</string>
+    <string name="esta_a_tela_2">Esta é a tela 2</string>
+</resources>
